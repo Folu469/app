@@ -1,3 +1,4 @@
+
 body {
   background-image: url("../images/bg-image.jpg");
   background-repeat: no-repeat;
@@ -35,8 +36,4 @@ body {
   top: 80%;
   border-radius: 15px;
   font-size: 0.7rem;
-}
-
-.qwe-fixed-pos {
-  position:fixed
 }
